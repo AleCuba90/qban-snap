@@ -1,4 +1,4 @@
-#market=RB,last=3.19,open=3.20
+#market=RB,last=3.20,open=3.20
 market,date,dow,close,poc,vah,val,vol,delta,high,low
 RB,09/08,Mar,3.08,3.06,3.11,3.04,23221,919,3.14,3.04
 RB,09/09,Mie,3.05,3.05,3.05,3.04,15770,882,3.06,3.02
