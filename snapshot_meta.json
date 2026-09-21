@@ -1,27 +1,8 @@
 {
-  "ts": "2026-09-21T10:18:38+00:00",
-  "generado": "2026-09-21 12:18:38",
+  "ts": "2026-09-21T10:18:47+00:00",
+  "generado": "2026-09-21 12:18:47",
   "version": "2.0",
-  "cambiados": [
-    "levels_ES_D.csv",
-    "levels_ES_M.csv",
-    "levels_ES_Q.csv",
-    "levels_ES_W.csv",
-    "levels_ES_Y.csv",
-    "levels_GC_D.csv",
-    "levels_GC_M.csv",
-    "levels_GC_Q.csv",
-    "levels_GC_W.csv",
-    "levels_GC_Y.csv",
-    "levels_NQ_D.csv",
-    "levels_NQ_M.csv",
-    "levels_NQ_Q.csv",
-    "levels_NQ_W.csv",
-    "levels_NQ_Y.csv",
-    "qban_tpo_ES.csv",
-    "qban_tpo_GC.csv",
-    "qban_tpo_NQ.csv"
-  ],
+  "cambiados": [],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 233,
