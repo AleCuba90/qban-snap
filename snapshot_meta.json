@@ -1,15 +1,8 @@
 {
-  "ts": "2026-09-22T06:55:12+00:00",
-  "generado": "2026-09-22 08:55:12",
+  "ts": "2026-09-22T07:55:16+00:00",
+  "generado": "2026-09-22 09:55:16",
   "version": "2.1",
-  "cambiados": [
-    "levels_GC_D.csv",
-    "levels_GC_M.csv",
-    "levels_GC_Q.csv",
-    "levels_GC_W.csv",
-    "levels_GC_Y.csv",
-    "qban_tpo_GC.csv"
-  ],
+  "cambiados": [],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 222,
