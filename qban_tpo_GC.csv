@@ -1,4 +1,4 @@
-#market=GC,last=4411.70,open=4402.70
+#market=GC,last=4408.10,open=4402.70
 market,date,dow,close,poc,vah,val,vol,delta,high,low
 GC,09/09,Mie,4460.20,4465.40,4471.20,4439.20,60697,-463,4479.00,4419.30
 GC,09/10,Jue,4407.83,4408.00,4412.90,4401.80,48790,18,4419.10,4394.10
