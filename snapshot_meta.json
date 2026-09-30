@@ -1,6 +1,6 @@
 {
-  "ts": "2026-09-30T10:21:00+00:00",
-  "generado": "2026-09-30 12:21:00",
+  "ts": "2026-09-30T10:31:05+00:00",
+  "generado": "2026-09-30 12:31:05",
   "version": "2.1",
   "cambiados": [
     "levels_ES_D.csv",
@@ -13,6 +13,7 @@
     "levels_NQ_Q.csv",
     "levels_NQ_W.csv",
     "levels_NQ_Y.csv",
+    "qban_tpo_ES.csv",
     "qban_tpo_NQ.csv"
   ],
   "archivos": {
@@ -38,23 +39,23 @@
     },
     "levels_ES_D.csv": {
       "bytes": 244,
-      "sha": "19c4ceb2f887"
+      "sha": "fba1bbb98312"
     },
     "levels_ES_M.csv": {
       "bytes": 184,
-      "sha": "c9cce60e932e"
+      "sha": "d91f957c9564"
     },
     "levels_ES_Q.csv": {
       "bytes": 184,
-      "sha": "450ad459e395"
+      "sha": "32fdd96ab990"
     },
     "levels_ES_W.csv": {
       "bytes": 184,
-      "sha": "6b6c140fffd1"
+      "sha": "3e6679c0e1aa"
     },
     "levels_ES_Y.csv": {
       "bytes": 184,
-      "sha": "8e5e4bc30a28"
+      "sha": "e67b9397c01c"
     },
     "levels_GC_D.csv": {
       "bytes": 244,
@@ -134,23 +135,23 @@
     },
     "levels_NQ_D.csv": {
       "bytes": 255,
-      "sha": "7c8da79e2c58"
+      "sha": "59fdf9719215"
     },
     "levels_NQ_M.csv": {
       "bytes": 196,
-      "sha": "6e77fa7a1205"
+      "sha": "318e0af7de37"
     },
     "levels_NQ_Q.csv": {
       "bytes": 196,
-      "sha": "de86305398e8"
+      "sha": "7e35e43ef1f1"
     },
     "levels_NQ_W.csv": {
       "bytes": 196,
-      "sha": "f63ee5ea8aea"
+      "sha": "fa65832f5684"
     },
     "levels_NQ_Y.csv": {
       "bytes": 196,
-      "sha": "e0459a9dd6d1"
+      "sha": "5545792a6ae3"
     },
     "levels_RB_D.csv": {
       "bytes": 211,
@@ -262,7 +263,7 @@
     },
     "qban_tpo_ES.csv": {
       "bytes": 769,
-      "sha": "3b19b2ce98ce"
+      "sha": "b88f8b593067"
     },
     "qban_tpo_GC.csv": {
       "bytes": 745,
@@ -278,7 +279,7 @@
     },
     "qban_tpo_NQ.csv": {
       "bytes": 816,
-      "sha": "d07527064aa5"
+      "sha": "7fa5e4b8360c"
     },
     "qban_tpo_RB.csv": {
       "bytes": 628,
