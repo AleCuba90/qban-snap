@@ -1,11 +1,8 @@
 {
-  "ts": "2026-10-02T14:31:44+00:00",
-  "generado": "2026-10-02 16:31:44",
+  "ts": "2026-10-02T15:31:50+00:00",
+  "generado": "2026-10-02 17:31:50",
   "version": "2.1",
-  "cambiados": [
-    "markets.json",
-    "qban_tpo_NQ.csv"
-  ],
+  "cambiados": [],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 222,
