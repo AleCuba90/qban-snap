@@ -66,6 +66,17 @@
    "tpo": true
   },
   {
+   "sym": "NQ",
+   "tfs": [
+    "D",
+    "M",
+    "Q",
+    "W",
+    "Y"
+   ],
+   "tpo": true
+  },
+  {
    "sym": "RB",
    "tfs": [
     "D",
