@@ -1,112 +1,154 @@
 {
-  "ts": "2026-10-18T08:46:26+00:00",
-  "generado": "2026-10-18 10:46:26",
+  "ts": "2026-11-09T17:36:26+00:00",
+  "generado": "2026-11-09 18:36:26",
   "version": "2.1",
-  "cambiados": [],
+  "cambiados": [
+    "levels_CL_D.csv",
+    "levels_CL_M.csv",
+    "levels_CL_Q.csv",
+    "levels_CL_W.csv",
+    "levels_CL_Y.csv",
+    "levels_ES_D.csv",
+    "levels_ES_M.csv",
+    "levels_ES_Q.csv",
+    "levels_ES_W.csv",
+    "levels_ES_Y.csv",
+    "levels_GC_D.csv",
+    "levels_GC_M.csv",
+    "levels_GC_Q.csv",
+    "levels_GC_W.csv",
+    "levels_GC_Y.csv",
+    "levels_NG_D.csv",
+    "levels_NG_M.csv",
+    "levels_NG_Q.csv",
+    "levels_NG_W.csv",
+    "levels_NG_Y.csv",
+    "levels_NQ_D.csv",
+    "levels_NQ_M.csv",
+    "levels_NQ_Q.csv",
+    "levels_NQ_W.csv",
+    "levels_NQ_Y.csv",
+    "levels_RB_D.csv",
+    "levels_SI_D.csv",
+    "levels_YM_D.csv",
+    "levels_YM_M.csv",
+    "levels_YM_Q.csv",
+    "levels_YM_W.csv",
+    "levels_YM_Y.csv",
+    "markets.json",
+    "qban_tpo_CL.csv",
+    "qban_tpo_ES.csv",
+    "qban_tpo_GC.csv",
+    "qban_tpo_NG.csv",
+    "qban_tpo_NQ.csv",
+    "qban_tpo_RB.csv",
+    "qban_tpo_SI.csv",
+    "qban_tpo_YM.csv"
+  ],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 222,
-      "sha": "54f2b36ad95e"
+      "sha": "c9f0efd7ba68"
     },
     "levels_CL_M.csv": {
-      "bytes": 161,
-      "sha": "affa66a86164"
+      "bytes": 164,
+      "sha": "e1e4e740a463"
     },
     "levels_CL_Q.csv": {
-      "bytes": 161,
-      "sha": "9c02fbc063e2"
+      "bytes": 163,
+      "sha": "2fc554aa01dd"
     },
     "levels_CL_W.csv": {
-      "bytes": 160,
-      "sha": "2e6320b78772"
+      "bytes": 161,
+      "sha": "2284cd87c3fc"
     },
     "levels_CL_Y.csv": {
       "bytes": 161,
-      "sha": "692e17137202"
+      "sha": "86bddbf04063"
     },
     "levels_ES_D.csv": {
       "bytes": 244,
-      "sha": "d135d16927a1"
+      "sha": "be06d2a347af"
     },
     "levels_ES_M.csv": {
       "bytes": 184,
-      "sha": "fdf26d894911"
+      "sha": "c4c69685d6e5"
     },
     "levels_ES_Q.csv": {
       "bytes": 184,
-      "sha": "bfb6df28ff02"
+      "sha": "b6b8b2d84d44"
     },
     "levels_ES_W.csv": {
       "bytes": 184,
-      "sha": "e36f22214751"
+      "sha": "0548e8c7e61b"
     },
     "levels_ES_Y.csv": {
       "bytes": 184,
-      "sha": "1889fd452df5"
+      "sha": "fe28bff5b9b4"
     },
     "levels_GC_D.csv": {
       "bytes": 244,
-      "sha": "6c799dc7e593"
+      "sha": "d786e0eb63ae"
     },
     "levels_GC_M.csv": {
       "bytes": 184,
-      "sha": "7749e675c51f"
+      "sha": "0727c562a687"
     },
     "levels_GC_Q.csv": {
       "bytes": 184,
-      "sha": "5205d24d4595"
+      "sha": "4e4fb736d95e"
     },
     "levels_GC_W.csv": {
       "bytes": 184,
-      "sha": "73f3d8cd1af1"
+      "sha": "b2e1ac644116"
     },
     "levels_GC_Y.csv": {
       "bytes": 184,
-      "sha": "3d6e69284279"
+      "sha": "d4ebb404e72f"
     },
     "levels_NG_D.csv": {
       "bytes": 211,
-      "sha": "1d344325ccfc"
+      "sha": "770fe628f932"
     },
     "levels_NG_M.csv": {
       "bytes": 148,
-      "sha": "986a791de89d"
+      "sha": "82dadf3434bd"
     },
     "levels_NG_Q.csv": {
       "bytes": 148,
-      "sha": "3f61df97a55b"
+      "sha": "852abd170af1"
     },
     "levels_NG_W.csv": {
       "bytes": 148,
-      "sha": "58f07d0e8f78"
+      "sha": "458219e30487"
     },
     "levels_NG_Y.csv": {
       "bytes": 148,
-      "sha": "1f89373fed48"
+      "sha": "ac154a1b0f2f"
     },
     "levels_NQ_D.csv": {
       "bytes": 255,
-      "sha": "92ab62f0bbc5"
+      "sha": "9033ed15c0d7"
     },
     "levels_NQ_M.csv": {
       "bytes": 196,
-      "sha": "9422c172730c"
+      "sha": "8e066c4587fc"
     },
     "levels_NQ_Q.csv": {
       "bytes": 196,
-      "sha": "c1ce5252dc0f"
+      "sha": "73f708f0b34e"
     },
     "levels_NQ_W.csv": {
       "bytes": 196,
-      "sha": "a6d73f2e3978"
+      "sha": "6a0cc33a0752"
     },
     "levels_NQ_Y.csv": {
       "bytes": 196,
-      "sha": "5ce00797ad8e"
+      "sha": "59e2f357b9e1"
     },
     "levels_RB_D.csv": {
       "bytes": 211,
-      "sha": "e6969ebd43dc"
+      "sha": "8b223dfa4fb4"
     },
     "levels_RB_M.csv": {
       "bytes": 148,
@@ -124,57 +166,65 @@
       "bytes": 148,
       "sha": "9ef8348ddb7b"
     },
+    "levels_SI_D.csv": {
+      "bytes": 222,
+      "sha": "ea8c7c9c2088"
+    },
     "levels_YM_D.csv": {
-      "bytes": 256,
-      "sha": "9044060ee369"
+      "bytes": 255,
+      "sha": "108976431261"
     },
     "levels_YM_M.csv": {
       "bytes": 196,
-      "sha": "ee054ea81837"
+      "sha": "dc9cd1e783cd"
     },
     "levels_YM_Q.csv": {
       "bytes": 196,
-      "sha": "12fe01f3c6e1"
+      "sha": "fbaf4f49e157"
     },
     "levels_YM_W.csv": {
       "bytes": 196,
-      "sha": "18fd0efc3d24"
+      "sha": "833f382f36e8"
     },
     "levels_YM_Y.csv": {
       "bytes": 196,
-      "sha": "258286c4e81e"
+      "sha": "f3f5d3b9a656"
     },
     "markets.json": {
-      "bytes": 733,
-      "sha": "b0692cc78191"
+      "bytes": 799,
+      "sha": "c9af265086ab"
     },
     "qban_tpo_CL.csv": {
-      "bytes": 700,
-      "sha": "9e55b4abe3cb"
+      "bytes": 722,
+      "sha": "b2a9e814adb2"
     },
     "qban_tpo_ES.csv": {
-      "bytes": 847,
-      "sha": "2a560c71092b"
+      "bytes": 845,
+      "sha": "74ff95c204f5"
     },
     "qban_tpo_GC.csv": {
-      "bytes": 824,
-      "sha": "dbdf5f18cee7"
+      "bytes": 814,
+      "sha": "bb305ab3cf84"
     },
     "qban_tpo_NG.csv": {
-      "bytes": 583,
-      "sha": "8ca0accb8d3e"
+      "bytes": 582,
+      "sha": "6e6b73392f5d"
     },
     "qban_tpo_NQ.csv": {
-      "bytes": 894,
-      "sha": "c96fdd6aa685"
+      "bytes": 896,
+      "sha": "b54cac5910d5"
     },
     "qban_tpo_RB.csv": {
-      "bytes": 575,
-      "sha": "e12030baad3a"
+      "bytes": 633,
+      "sha": "0205fa648e7a"
+    },
+    "qban_tpo_SI.csv": {
+      "bytes": 687,
+      "sha": "993eb4d34138"
     },
     "qban_tpo_YM.csv": {
       "bytes": 886,
-      "sha": "cc1549ba619c"
+      "sha": "c385a48d8ecb"
     }
   }
 }
