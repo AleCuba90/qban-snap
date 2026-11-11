@@ -1,6 +1,6 @@
 {
-  "ts": "2026-11-11T16:40:26+00:00",
-  "generado": "2026-11-11 17:40:26",
+  "ts": "2026-11-11T16:50:30+00:00",
+  "generado": "2026-11-11 17:50:30",
   "version": "2.1",
   "cambiados": [
     "levels_CL_D.csv",
@@ -18,97 +18,76 @@
     "levels_GC_Q.csv",
     "levels_GC_W.csv",
     "levels_GC_Y.csv",
-    "levels_NG_D.csv",
-    "levels_NG_M.csv",
-    "levels_NG_Q.csv",
-    "levels_NG_W.csv",
-    "levels_NG_Y.csv",
     "levels_NQ_D.csv",
     "levels_NQ_M.csv",
     "levels_NQ_Q.csv",
     "levels_NQ_W.csv",
     "levels_NQ_Y.csv",
-    "levels_RB_D.csv",
-    "levels_RB_M.csv",
-    "levels_RB_Q.csv",
-    "levels_RB_W.csv",
-    "levels_RB_Y.csv",
-    "levels_SI_D.csv",
-    "levels_YM_D.csv",
-    "levels_YM_M.csv",
-    "levels_YM_Q.csv",
-    "levels_YM_W.csv",
-    "levels_YM_Y.csv",
-    "markets.json",
     "qban_tpo_CL.csv",
     "qban_tpo_ES.csv",
     "qban_tpo_GC.csv",
-    "qban_tpo_NG.csv",
-    "qban_tpo_NQ.csv",
-    "qban_tpo_RB.csv",
-    "qban_tpo_SI.csv",
-    "qban_tpo_YM.csv"
+    "qban_tpo_NQ.csv"
   ],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 222,
-      "sha": "b9ef7614e3af"
+      "sha": "c3e5b14952b7"
     },
     "levels_CL_M.csv": {
       "bytes": 164,
-      "sha": "ee40f61314ea"
+      "sha": "db86bf2e4414"
     },
     "levels_CL_Q.csv": {
       "bytes": 162,
-      "sha": "7841b6621332"
+      "sha": "997e12908e0f"
     },
     "levels_CL_W.csv": {
       "bytes": 161,
-      "sha": "e96dc225f9f5"
+      "sha": "6dc2a557eceb"
     },
     "levels_CL_Y.csv": {
       "bytes": 161,
-      "sha": "533aa371a60c"
+      "sha": "ddf01d1c2a36"
     },
     "levels_ES_D.csv": {
       "bytes": 244,
-      "sha": "2d9dafbfb252"
+      "sha": "560075d709f0"
     },
     "levels_ES_M.csv": {
       "bytes": 184,
-      "sha": "64138125c267"
+      "sha": "ab66ec32b2e3"
     },
     "levels_ES_Q.csv": {
       "bytes": 184,
-      "sha": "beb8786e9fee"
+      "sha": "048db75fd7c8"
     },
     "levels_ES_W.csv": {
       "bytes": 184,
-      "sha": "8094bf6cea1e"
+      "sha": "9421206bc1c1"
     },
     "levels_ES_Y.csv": {
       "bytes": 184,
-      "sha": "900f0f7cf007"
+      "sha": "5111c7afe382"
     },
     "levels_GC_D.csv": {
       "bytes": 244,
-      "sha": "8998f4be5208"
+      "sha": "a3dbbe69b636"
     },
     "levels_GC_M.csv": {
       "bytes": 184,
-      "sha": "77e0afd8efa9"
+      "sha": "b3f6a5c735a2"
     },
     "levels_GC_Q.csv": {
       "bytes": 184,
-      "sha": "30ee4dd24154"
+      "sha": "1a1b55b6968f"
     },
     "levels_GC_W.csv": {
       "bytes": 184,
-      "sha": "f7d110052ab5"
+      "sha": "b6bcf225c2e4"
     },
     "levels_GC_Y.csv": {
       "bytes": 184,
-      "sha": "7adf2f362bf6"
+      "sha": "a91e6a6c74db"
     },
     "levels_NG_D.csv": {
       "bytes": 211,
@@ -132,23 +111,23 @@
     },
     "levels_NQ_D.csv": {
       "bytes": 255,
-      "sha": "999e009fc697"
+      "sha": "8fd9b42fccbc"
     },
     "levels_NQ_M.csv": {
       "bytes": 196,
-      "sha": "83d57d945a73"
+      "sha": "ba40f768f671"
     },
     "levels_NQ_Q.csv": {
       "bytes": 196,
-      "sha": "c4a2c2d18c10"
+      "sha": "c2f5587a18db"
     },
     "levels_NQ_W.csv": {
       "bytes": 196,
-      "sha": "a8f526c1510d"
+      "sha": "10aa2fb43d83"
     },
     "levels_NQ_Y.csv": {
       "bytes": 196,
-      "sha": "d6958c389a59"
+      "sha": "e5d9210e2116"
     },
     "levels_RB_D.csv": {
       "bytes": 211,
@@ -199,16 +178,16 @@
       "sha": "c9af265086ab"
     },
     "qban_tpo_CL.csv": {
-      "bytes": 711,
-      "sha": "7355f7c6d904"
+      "bytes": 713,
+      "sha": "72612c0eb5d9"
     },
     "qban_tpo_ES.csv": {
       "bytes": 846,
-      "sha": "2d598f7eb375"
+      "sha": "3d002f04a268"
     },
     "qban_tpo_GC.csv": {
       "bytes": 817,
-      "sha": "5568ca203a20"
+      "sha": "d7748a37f8e6"
     },
     "qban_tpo_NG.csv": {
       "bytes": 582,
@@ -216,7 +195,7 @@
     },
     "qban_tpo_NQ.csv": {
       "bytes": 899,
-      "sha": "a53bac488886"
+      "sha": "e1fdb08a3930"
     },
     "qban_tpo_RB.csv": {
       "bytes": 633,
