@@ -34,27 +34,6 @@
    "tpo": true
   },
   {
-   "sym": "GE",
-   "tfs": [
-    "M",
-    "Q",
-    "W",
-    "Y"
-   ],
-   "tpo": false
-  },
-  {
-   "sym": "HG",
-   "tfs": [
-    "D",
-    "M",
-    "Q",
-    "W",
-    "Y"
-   ],
-   "tpo": true
-  },
-  {
    "sym": "NG",
    "tfs": [
     "D",
@@ -90,38 +69,12 @@
   {
    "sym": "SI",
    "tfs": [
-    "D",
-    "M",
-    "Q",
-    "W",
-    "Y"
+    "D"
    ],
    "tpo": true
   },
   {
    "sym": "YM",
-   "tfs": [
-    "D",
-    "M",
-    "Q",
-    "W",
-    "Y"
-   ],
-   "tpo": true
-  },
-  {
-   "sym": "ZB",
-   "tfs": [
-    "D",
-    "M",
-    "Q",
-    "W",
-    "Y"
-   ],
-   "tpo": true
-  },
-  {
-   "sym": "ZN",
    "tfs": [
     "D",
     "M",
