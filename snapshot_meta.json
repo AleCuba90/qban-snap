@@ -1,6 +1,6 @@
 {
-  "ts": "2026-11-17T17:41:16+00:00",
-  "generado": "2026-11-17 18:41:16",
+  "ts": "2026-11-17T17:51:19+00:00",
+  "generado": "2026-11-17 18:51:19",
   "version": "2.1",
   "cambiados": [
     "levels_NQ_D.csv",
@@ -93,23 +93,23 @@
     },
     "levels_NQ_D.csv": {
       "bytes": 255,
-      "sha": "05b78b966a2c"
+      "sha": "3aeb29d055f5"
     },
     "levels_NQ_M.csv": {
       "bytes": 196,
-      "sha": "ac7711d78077"
+      "sha": "5184bc543378"
     },
     "levels_NQ_Q.csv": {
       "bytes": 196,
-      "sha": "ae682c30acea"
+      "sha": "b3b3e13c5852"
     },
     "levels_NQ_W.csv": {
       "bytes": 196,
-      "sha": "460a378c417e"
+      "sha": "da9ff5e8148c"
     },
     "levels_NQ_Y.csv": {
       "bytes": 196,
-      "sha": "a3ae11c6f7ed"
+      "sha": "f8aac55f9c61"
     },
     "levels_RB_D.csv": {
       "bytes": 211,
@@ -177,7 +177,7 @@
     },
     "qban_tpo_NQ.csv": {
       "bytes": 900,
-      "sha": "dce5f5102ee5"
+      "sha": "5fcec313ef7f"
     },
     "qban_tpo_RB.csv": {
       "bytes": 633,
