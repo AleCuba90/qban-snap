@@ -1,53 +1,12 @@
 {
-  "ts": "2026-11-18T09:58:16+00:00",
-  "generado": "2026-11-18 10:58:16",
+  "ts": "2026-11-18T10:48:19+00:00",
+  "generado": "2026-11-18 11:48:19",
   "version": "2.1",
   "cambiados": [
-    "levels_CL_D.csv",
-    "levels_CL_M.csv",
-    "levels_CL_Q.csv",
-    "levels_CL_W.csv",
-    "levels_CL_Y.csv",
-    "levels_ES_D.csv",
     "levels_ES_M.csv",
     "levels_ES_Q.csv",
     "levels_ES_W.csv",
-    "levels_ES_Y.csv",
-    "levels_GC_D.csv",
-    "levels_GC_M.csv",
-    "levels_GC_Q.csv",
-    "levels_GC_W.csv",
-    "levels_GC_Y.csv",
-    "levels_NG_D.csv",
-    "levels_NG_M.csv",
-    "levels_NG_Q.csv",
-    "levels_NG_W.csv",
-    "levels_NG_Y.csv",
-    "levels_NQ_D.csv",
-    "levels_NQ_M.csv",
-    "levels_NQ_Q.csv",
-    "levels_NQ_W.csv",
-    "levels_NQ_Y.csv",
-    "levels_RB_D.csv",
-    "levels_RB_M.csv",
-    "levels_RB_Q.csv",
-    "levels_RB_W.csv",
-    "levels_RB_Y.csv",
-    "levels_SI_D.csv",
-    "levels_YM_D.csv",
-    "levels_YM_M.csv",
-    "levels_YM_Q.csv",
-    "levels_YM_W.csv",
-    "levels_YM_Y.csv",
-    "markets.json",
-    "qban_tpo_CL.csv",
-    "qban_tpo_ES.csv",
-    "qban_tpo_GC.csv",
-    "qban_tpo_NG.csv",
-    "qban_tpo_NQ.csv",
-    "qban_tpo_RB.csv",
-    "qban_tpo_SI.csv",
-    "qban_tpo_YM.csv"
+    "levels_ES_Y.csv"
   ],
   "archivos": {
     "levels_CL_D.csv": {
@@ -76,19 +35,19 @@
     },
     "levels_ES_M.csv": {
       "bytes": 184,
-      "sha": "13a76f692369"
+      "sha": "d7d862786132"
     },
     "levels_ES_Q.csv": {
       "bytes": 184,
-      "sha": "bd3b1e6ed8bc"
+      "sha": "edfbb1772dfa"
     },
     "levels_ES_W.csv": {
       "bytes": 184,
-      "sha": "d5ce69102114"
+      "sha": "4114c8aa0864"
     },
     "levels_ES_Y.csv": {
-      "bytes": 184,
-      "sha": "26b694171337"
+      "bytes": 169,
+      "sha": "f0f5e48af005"
     },
     "levels_GC_D.csv": {
       "bytes": 244,
