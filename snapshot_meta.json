@@ -1,13 +1,8 @@
 {
-  "ts": "2026-11-18T10:48:19+00:00",
-  "generado": "2026-11-18 11:48:19",
+  "ts": "2026-11-18T11:48:23+00:00",
+  "generado": "2026-11-18 12:48:23",
   "version": "2.1",
-  "cambiados": [
-    "levels_ES_M.csv",
-    "levels_ES_Q.csv",
-    "levels_ES_W.csv",
-    "levels_ES_Y.csv"
-  ],
+  "cambiados": [],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 222,
