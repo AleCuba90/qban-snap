@@ -31,7 +31,14 @@
   {
    "sym": "GC",
    "tfs": [
-    "FS"
+    "D",
+    "FS",
+    "M",
+    "OVN",
+    "Q",
+    "RTH",
+    "W",
+    "Y"
    ],
    "tpo": true
   },
