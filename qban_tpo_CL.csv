@@ -1,4 +1,4 @@
-#market=CL,last=82.88,open=82.11
+#market=CL,last=81.57,open=82.11
 market,date,dow,close,poc,vah,val,vol,delta,high,low
 CL,11/10,Mar,85.00,84.90,85.42,84.37,90832,-958,85.47,83.09
 CL,11/11,Mie,85.04,86.93,87.35,85.57,92284,-3936,87.38,84.69
