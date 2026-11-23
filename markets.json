@@ -4,11 +4,8 @@
    "sym": "CL",
    "tfs": [
     "D",
-    "FS",
     "M",
-    "OVN",
     "Q",
-    "RTH",
     "W",
     "Y"
    ],
@@ -18,11 +15,8 @@
    "sym": "ES",
    "tfs": [
     "D",
-    "FS",
     "M",
-    "OVN",
     "Q",
-    "RTH",
     "W",
     "Y"
    ],
@@ -32,11 +26,29 @@
    "sym": "GC",
    "tfs": [
     "D",
-    "FS",
     "M",
-    "OVN",
     "Q",
-    "RTH",
+    "W",
+    "Y"
+   ],
+   "tpo": true
+  },
+  {
+   "sym": "GE",
+   "tfs": [
+    "M",
+    "Q",
+    "W",
+    "Y"
+   ],
+   "tpo": false
+  },
+  {
+   "sym": "HG",
+   "tfs": [
+    "D",
+    "M",
+    "Q",
     "W",
     "Y"
    ],
@@ -57,11 +69,8 @@
    "sym": "NQ",
    "tfs": [
     "D",
-    "FS",
     "M",
-    "OVN",
     "Q",
-    "RTH",
     "W",
     "Y"
    ],
@@ -81,12 +90,38 @@
   {
    "sym": "SI",
    "tfs": [
-    "D"
+    "D",
+    "M",
+    "Q",
+    "W",
+    "Y"
    ],
    "tpo": true
   },
   {
    "sym": "YM",
+   "tfs": [
+    "D",
+    "M",
+    "Q",
+    "W",
+    "Y"
+   ],
+   "tpo": true
+  },
+  {
+   "sym": "ZB",
+   "tfs": [
+    "D",
+    "M",
+    "Q",
+    "W",
+    "Y"
+   ],
+   "tpo": true
+  },
+  {
+   "sym": "ZN",
    "tfs": [
     "D",
     "M",
