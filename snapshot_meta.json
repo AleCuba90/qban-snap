@@ -1,6 +1,6 @@
 {
-  "ts": "2026-11-24T11:14:23+00:00",
-  "generado": "2026-11-24 12:14:23",
+  "ts": "2026-11-24T11:24:29+00:00",
+  "generado": "2026-11-24 12:24:29",
   "version": "2.1",
   "cambiados": [
     "levels_CL_D.csv",
@@ -43,99 +43,99 @@
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 227,
-      "sha": "95f9df5d3b1e"
+      "sha": "a31631379060"
     },
     "levels_CL_FS.csv": {
       "bytes": 234,
-      "sha": "abcbe1bad07f"
+      "sha": "3640a5906daf"
     },
     "levels_CL_M.csv": {
       "bytes": 163,
-      "sha": "fd76b025c95e"
+      "sha": "e6cb5091f2e4"
     },
     "levels_CL_OVN.csv": {
       "bytes": 236,
-      "sha": "fa8206cd5a87"
+      "sha": "9a5efaedd714"
     },
     "levels_CL_Q.csv": {
       "bytes": 161,
-      "sha": "62118043594f"
+      "sha": "f8307d503435"
     },
     "levels_CL_RTH.csv": {
       "bytes": 234,
-      "sha": "e6bea9d2299e"
+      "sha": "dd424dd8ae45"
     },
     "levels_CL_W.csv": {
       "bytes": 160,
-      "sha": "c8f569b560c0"
+      "sha": "8bbf59179664"
     },
     "levels_CL_Y.csv": {
       "bytes": 161,
-      "sha": "6b764cc27aa1"
+      "sha": "7fc40b0d4757"
     },
     "levels_ES_D.csv": {
       "bytes": 259,
-      "sha": "24997b965090"
+      "sha": "e0b945ccdca2"
     },
     "levels_ES_FS.csv": {
       "bytes": 266,
-      "sha": "2a7aa9c508b6"
+      "sha": "209166cb3839"
     },
     "levels_ES_M.csv": {
       "bytes": 184,
-      "sha": "c1c9498b45d2"
+      "sha": "2079e64b918b"
     },
     "levels_ES_OVN.csv": {
       "bytes": 272,
-      "sha": "1ce7e228597b"
+      "sha": "bb1212171742"
     },
     "levels_ES_Q.csv": {
       "bytes": 184,
-      "sha": "5a9e9dae412f"
+      "sha": "b8096d8821d6"
     },
     "levels_ES_RTH.csv": {
       "bytes": 266,
-      "sha": "23311ece1f9c"
+      "sha": "d6d92da30751"
     },
     "levels_ES_W.csv": {
       "bytes": 184,
-      "sha": "eda4895ce3d7"
+      "sha": "1de6f8978ee3"
     },
     "levels_ES_Y.csv": {
       "bytes": 184,
-      "sha": "a4092e6e9046"
+      "sha": "66f3b78bccdf"
     },
     "levels_GC_D.csv": {
       "bytes": 259,
-      "sha": "433ab41a1ee2"
+      "sha": "f036ca9bb90a"
     },
     "levels_GC_FS.csv": {
       "bytes": 266,
-      "sha": "dcf46a6058cb"
+      "sha": "37dca3885602"
     },
     "levels_GC_M.csv": {
       "bytes": 184,
-      "sha": "f959e46e3274"
+      "sha": "042cf4cc6fd8"
     },
     "levels_GC_OVN.csv": {
       "bytes": 272,
-      "sha": "16f6c11212fa"
+      "sha": "c7e1c866e7b9"
     },
     "levels_GC_Q.csv": {
       "bytes": 184,
-      "sha": "15d6c4536537"
+      "sha": "955cd23c67c3"
     },
     "levels_GC_RTH.csv": {
       "bytes": 266,
-      "sha": "3ca35e63c0c9"
+      "sha": "323485f40952"
     },
     "levels_GC_W.csv": {
       "bytes": 184,
-      "sha": "e2403ee5e40d"
+      "sha": "532eb6ba5a2f"
     },
     "levels_GC_Y.csv": {
       "bytes": 184,
-      "sha": "01d3f52878a9"
+      "sha": "d6851a34a78d"
     },
     "levels_NG_D.csv": {
       "bytes": 211,
@@ -159,35 +159,35 @@
     },
     "levels_NQ_D.csv": {
       "bytes": 275,
-      "sha": "3d457e59c412"
+      "sha": "42c858abd173"
     },
     "levels_NQ_FS.csv": {
       "bytes": 282,
-      "sha": "eeb36db3adba"
+      "sha": "07aecea8c5de"
     },
     "levels_NQ_M.csv": {
       "bytes": 196,
-      "sha": "7d52a66e5bfe"
+      "sha": "d5afad7d91a9"
     },
     "levels_NQ_OVN.csv": {
       "bytes": 290,
-      "sha": "43cbc2333d0b"
+      "sha": "dab0da05ddd4"
     },
     "levels_NQ_Q.csv": {
       "bytes": 196,
-      "sha": "db4fbdc97a29"
+      "sha": "1af57b0e11ad"
     },
     "levels_NQ_RTH.csv": {
       "bytes": 282,
-      "sha": "d3e4678b5856"
+      "sha": "612a1a68fa70"
     },
     "levels_NQ_W.csv": {
       "bytes": 196,
-      "sha": "4685cc6fac55"
+      "sha": "0cfc31949fed"
     },
     "levels_NQ_Y.csv": {
       "bytes": 196,
-      "sha": "02a721d5a75c"
+      "sha": "40e9ba735f7c"
     },
     "levels_RB_D.csv": {
       "bytes": 211,
@@ -239,15 +239,15 @@
     },
     "qban_tpo_CL.csv": {
       "bytes": 639,
-      "sha": "5e19a0be7a99"
+      "sha": "658c7ace7a03"
     },
     "qban_tpo_ES.csv": {
       "bytes": 772,
-      "sha": "c48b2a14abcf"
+      "sha": "0e213c14609f"
     },
     "qban_tpo_GC.csv": {
       "bytes": 749,
-      "sha": "0d676ecd372b"
+      "sha": "891438aef2c0"
     },
     "qban_tpo_NG.csv": {
       "bytes": 582,
@@ -255,7 +255,7 @@
     },
     "qban_tpo_NQ.csv": {
       "bytes": 822,
-      "sha": "dc3a82ed78ce"
+      "sha": "d856d45cfbbd"
     },
     "qban_tpo_RB.csv": {
       "bytes": 633,
