@@ -1,53 +1,18 @@
 {
-  "ts": "2026-11-26T23:58:58+00:00",
-  "generado": "2026-11-27 00:58:58",
+  "ts": "2026-11-27T00:03:04+00:00",
+  "generado": "2026-11-27 01:03:04",
   "version": "2.1",
   "cambiados": [
-    "levels_CL_D.csv",
-    "levels_CL_M.csv",
-    "levels_CL_Q.csv",
-    "levels_CL_RTH.csv",
-    "levels_CL_W.csv",
-    "levels_CL_Y.csv",
-    "levels_ES_D.csv",
-    "levels_ES_M.csv",
-    "levels_ES_Q.csv",
-    "levels_ES_RTH.csv",
-    "levels_ES_W.csv",
-    "levels_ES_Y.csv",
-    "levels_GC_D.csv",
-    "levels_GC_M.csv",
-    "levels_GC_Q.csv",
-    "levels_GC_RTH.csv",
-    "levels_GC_W.csv",
-    "levels_GC_Y.csv",
-    "levels_NQ_D.csv",
-    "levels_NQ_M.csv",
-    "levels_NQ_Q.csv",
-    "levels_NQ_RTH.csv",
-    "levels_NQ_W.csv",
-    "levels_NQ_Y.csv",
-    "qban_tpo_CL.csv",
-    "qban_tpo_ES.csv",
-    "qban_tpo_GC.csv",
-    "qban_tpo_NQ.csv"
+    "markets.json"
   ],
   "archivos": {
     "levels_CL_D.csv": {
       "bytes": 227,
       "sha": "90cd09256223"
     },
-    "levels_CL_FS.csv": {
-      "bytes": 234,
-      "sha": "ecba5daaa986"
-    },
     "levels_CL_M.csv": {
       "bytes": 163,
       "sha": "bc758b56fef3"
-    },
-    "levels_CL_OVN.csv": {
-      "bytes": 236,
-      "sha": "cfccbb8e73a4"
     },
     "levels_CL_Q.csv": {
       "bytes": 161,
@@ -69,17 +34,9 @@
       "bytes": 259,
       "sha": "50bf3955050b"
     },
-    "levels_ES_FS.csv": {
-      "bytes": 266,
-      "sha": "f02f841e138c"
-    },
     "levels_ES_M.csv": {
       "bytes": 184,
       "sha": "ce588f81e3ca"
-    },
-    "levels_ES_OVN.csv": {
-      "bytes": 272,
-      "sha": "baf1ab054b69"
     },
     "levels_ES_Q.csv": {
       "bytes": 184,
@@ -101,17 +58,9 @@
       "bytes": 259,
       "sha": "6d3f557b9572"
     },
-    "levels_GC_FS.csv": {
-      "bytes": 266,
-      "sha": "3cf4ebaebaf3"
-    },
     "levels_GC_M.csv": {
       "bytes": 184,
       "sha": "57533f9e4688"
-    },
-    "levels_GC_OVN.csv": {
-      "bytes": 272,
-      "sha": "bc0f85d79097"
     },
     "levels_GC_Q.csv": {
       "bytes": 184,
@@ -153,17 +102,9 @@
       "bytes": 275,
       "sha": "929b2da68460"
     },
-    "levels_NQ_FS.csv": {
-      "bytes": 282,
-      "sha": "5ed6883f2d74"
-    },
     "levels_NQ_M.csv": {
       "bytes": 196,
       "sha": "824562b45e5e"
-    },
-    "levels_NQ_OVN.csv": {
-      "bytes": 290,
-      "sha": "3f23c0a0f3f8"
     },
     "levels_NQ_Q.csv": {
       "bytes": 196,
@@ -226,8 +167,8 @@
       "sha": "fd681c012241"
     },
     "markets.json": {
-      "bytes": 927,
-      "sha": "c9ceb02ab271"
+      "bytes": 843,
+      "sha": "e76b952caee9"
     },
     "qban_tpo_CL.csv": {
       "bytes": 637,
